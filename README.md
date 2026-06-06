@@ -54,5 +54,8 @@ Luego mostrara la respuesta generada por el modelo.
 - `app_gemini.py`: codigo principal para conectarse a Gemini.
 - `requirements.txt`: dependencias del proyecto.
 - `.env.example`: ejemplo de configuracion de la clave API.
+
+- ##EVIDENCIA
 - <img width="1095" height="735" alt="image" src="https://github.com/user-attachments/assets/6b5b6fdf-f3c2-4297-baa7-687b5c00e7d8" />
+<img width="761" height="201" alt="image" src="https://github.com/user-attachments/assets/c259ce42-07b1-441e-9f9d-0f6f3a10b4a9" />
 
